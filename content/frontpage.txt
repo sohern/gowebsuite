@@ -1,0 +1,2 @@
+Welcome to the front page of the site<p>
+This is the site front page.
